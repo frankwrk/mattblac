@@ -65,8 +65,7 @@ const Index = () => (
         <BigTitle>
           Matt <br /> Black.
         </BigTitle>
-        <Subtitle>Web Design Studio</Subtitle>
-        <Subtitle>Coming soon</Subtitle>
+        <Subtitle>Coming soon - Web Design Studio</Subtitle>
       </Hero>
       {/*<Projects offset={1}>
         <Title>Projects</Title>
@@ -122,14 +121,14 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:admin@webwrk.ie">Hi</a>{/* or find me on other platforms:{' '}
+            Say Hi!<a href="mailto:admin@webwrk.ie"> email</a>{/* or find me on other platforms:{' '}
             <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
             <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>*/}
           </ContactText>
         </Inner>
         <Footer>
           &copy; 2019 by Matt Black Studio.{' '}
-          <a href="https://github.com/frankwrk">Github Repository</a>. Made by{' '}
+          <a href="https://github.com/frankwrk">Github</a>. Made by{' '}
           <a href="https://webwrk.ie">webwrk Studio</a>.
         </Footer>
       </Contact>

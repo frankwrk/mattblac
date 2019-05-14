@@ -20,6 +20,6 @@ module.exports = {
   googleAnalyticsID: 'UA-140136476-1',
 
   // Manifest and Progress color
-  themeColor: tailwind.colors.orange,
+  themeColor: tailwind.colors.black,
   backgroundColor: tailwind.colors.blue,
 }
