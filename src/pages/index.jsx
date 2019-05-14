@@ -13,10 +13,6 @@ import { Title, BigTitle, Subtitle } from '../elements/Titles'
 // Views
 import Hero from '../views/Hero'
 
-const ContactText = styled.p`
-  ${tw`text-grey-light font-sans text-xl md:text-2xl lg:text-3xl`};
-`
-
 const Index = () => (
   <>
     <Layout />
