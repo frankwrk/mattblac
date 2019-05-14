@@ -63,11 +63,12 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hello, <br /> I'm John Doe.
+          Matt <br /> Black.
         </BigTitle>
-        <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+        <Subtitle>Web Design Studio</Subtitle>
+        <Subtitle>Coming soon</Subtitle>
       </Hero>
-      <Projects offset={1}>
+      {/*<Projects offset={1}>
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
@@ -116,20 +117,20 @@ const Index = () => (
           want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that all
           right?
         </AboutDesc>
-      </About>
+      </About>*/}
       <Contact offset={4}>
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
+            Say <a href="mailto:admin@webwrk.ie">Hi</a>{/* or find me on other platforms:{' '}
             <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>*/}
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
-          <a href="https://www.lekoarts.de">LekoArts</a>.
+          &copy; 2019 by Matt Black Studio.{' '}
+          <a href="https://github.com/frankwrk">Github Repository</a>. Made by{' '}
+          <a href="https://webwrk.ie">webwrk Studio</a>.
         </Footer>
       </Contact>
     </Parallax>
