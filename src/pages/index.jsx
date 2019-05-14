@@ -5,7 +5,7 @@ import { Parallax } from 'react-spring/renderprops-addons.cjs'
 
 // Components
 import Layout from '../components/Layout'
-import ProjectCard from '../components/ProjectCard'
+// import ProjectCard from '../components/ProjectCard'
 
 // Elements
 import Inner from '../elements/Inner'
@@ -13,13 +13,13 @@ import { Title, BigTitle, Subtitle } from '../elements/Titles'
 
 // Views
 import Hero from '../views/Hero'
-import Projects from '../views/Projects'
-import About from '../views/About'
+// import Projects from '../views/Projects'
+// import About from '../views/About'
 import Contact from '../views/Contact'
 
-import avatar from '../images/avatar.jpg'
+// import avatar from '../images/avatar.jpg'
 
-const ProjectsWrapper = styled.div`
+{/*const ProjectsWrapper = styled.div`
   ${tw`flex flex-wrap justify-between mt-8`};
   display: grid;
   grid-gap: 4rem;
@@ -47,7 +47,7 @@ const AboutSub = styled.span`
 
 const AboutDesc = styled.p`
   ${tw`text-grey-light text-lg md:text-xl lg:text-2xl font-sans pt-6 md:pt-12 text-justify`};
-`
+`*/}
 
 const ContactText = styled.p`
   ${tw`text-grey-light font-sans text-xl md:text-2xl lg:text-3xl`};
