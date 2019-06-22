@@ -20,7 +20,7 @@ const Index = () => (
     <Parallax pages={1}>
       <Hero>
         <BigTitle>
-          Matt Black <br/> Studio.
+          Matt Black.
         </BigTitle>
         <Subtitle>Coming soon</Subtitle>
 
